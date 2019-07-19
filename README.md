@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-This program is ment to emulate a game of Tic Tac Toe between a user and a CPU. It is built using C++ and was built in Eclipse.
+This program is meant to emulate a game of Tic Tac Toe between a user and a CPU in C++.
 
 # To Use
 
